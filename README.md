@@ -12,17 +12,14 @@ In no event and under no legal theory, whether in tort (including negligence), c
 
 The old legacy client should be used by all those who do not plan to get involved in either buying computational resources or by contributing their computational resources to the network. While still in experimental stage, this client is tested for quite a while now and is the safer choice:
 
-[https://github.com/xel-software/Litewallet-Mainnet]
+[https://github.com/xel-software/xel-lite-wallet]
 
 ### Experimental Beta Client (With Computation)
 
 This is the new client. It allows you to interact with XEL's computation engine on the mainnet. It is less tested and may contain bugs. Please re-read the above disclaimer and never use more coins with it (or with Xeline) than you can afford to lose.
 
-[https://github.com/xel-software/Computationwallet-Mainnet]
+[https://github.com/xel-software/xel-computation-wallet]
 
 For an easier set-up, we strongly suggest that you use the Docker-based installation found here:
 
-[https://github.com/xel-software/Computationwallet-Mainnet-Docker]
-
-
-
+[https://github.com/xel-software/xel-computation-wallet-docker]
