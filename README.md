@@ -22,4 +22,4 @@ This is the new client. It allows you to interact with XEL's computation engine 
 
 For an easier set-up, we strongly suggest that you use the Docker-based installation found here:
 
-[https://github.com/xel-software/xel-computation-wallet-docker]
+[https://github.com/xel-software/xel-installer-docker]
